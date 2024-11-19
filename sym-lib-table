@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "I2CBuffer")(type "KiCad")(uri "${KIPRJMOD}/I2CBuffer.kicad_sym")(options "")(descr ""))
+  (lib (name "LogicICs")(type "KiCad")(uri "${KIPRJMOD}/LogicICs.kicad_sym")(options "")(descr ""))
+)
